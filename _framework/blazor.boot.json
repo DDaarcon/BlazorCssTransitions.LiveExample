@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorCssTransitions.Example",
   "resources": {
-    "hash": "sha256-qxqC0hjtZawICynYrZHazhp8e23hKLj5l/W0qeCIjQU=",
+    "hash": "sha256-MovXzMjAP4wm1du3Xi8yVLzutKrj32uAA+SEz0hiS6M=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.v87ph9jqki.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.f6ai5js3zg.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -41,8 +41,8 @@
       "System.Text.RegularExpressions.uppli1il33.wasm": "System.Text.RegularExpressions.wasm",
       "System.wznexm8bk2.wasm": "System.wasm",
       "System.Private.CoreLib.eqngtwz70a.wasm": "System.Private.CoreLib.wasm",
-      "BlazorCssTransitions.7j0dlavxdh.wasm": "BlazorCssTransitions.wasm",
-      "BlazorCssTransitions.Example.xrm50nczta.wasm": "BlazorCssTransitions.Example.wasm",
+      "BlazorCssTransitions.3pl90o3ch2.wasm": "BlazorCssTransitions.wasm",
+      "BlazorCssTransitions.Example.4fppb7jzur.wasm": "BlazorCssTransitions.Example.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.st0ovrfdhi.js": "dotnet.native.js",
       "dotnet.native.67rumul467.wasm": "dotnet.native.wasm",
@@ -106,8 +106,8 @@
       "System.Text.Json.c0eusmz76d.wasm": "sha256-lLnVvdY0gUWMtP3T8mry5lpAt77/RJPpWUIRr8zDI0U=",
       "System.Text.RegularExpressions.uppli1il33.wasm": "sha256-cssgrj2fLKJui+a09EbhoMvUEqUJHPWKR47Ri3l887A=",
       "System.wznexm8bk2.wasm": "sha256-/Imz/Enqa2AZc4T3k/CqtsM6674KRN9OUtvK4Nokhew=",
-      "BlazorCssTransitions.7j0dlavxdh.wasm": "sha256-8xD490urMVhqayVqwHqUC6taSIuPp9UVRD1+8XnutKw=",
-      "BlazorCssTransitions.Example.xrm50nczta.wasm": "sha256-c8GaDxM3ZJHVwLgbj2xtCuHLFjycQrTjDBhnid/W6wk="
+      "BlazorCssTransitions.3pl90o3ch2.wasm": "sha256-6ZkIvsc3zLaaqcROIcIiXCvqBkyLfm+EBvqWawhgxVA=",
+      "BlazorCssTransitions.Example.4fppb7jzur.wasm": "sha256-EFweDMSUmSjA07kH5DNb8MlcJSEiC6yKaXcHuXL5F4Q="
     }
   },
   "cacheBootResources": true,
